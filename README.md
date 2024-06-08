@@ -12,7 +12,7 @@ CS Student
 * ✉️  You can contact me at [danishsuffian14@gmail.com](mailto:danishsuffian14@gmail.com)
 * 🚀  I'm currently working on [IntelIntern](http://github.com/DanishSuffian/FinalYearProject)
 * 🧠  I'm learning PowerBI at the moment.
-* 🤝  I'm open to collaborating on any projects.
+* 🤝  I'm open to collaborate on any projects.
 
 ### Skills
 
