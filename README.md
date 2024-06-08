@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student
 ----------
 
-🚀 I'm a passionate computer science student with a strong background in software development, data analysis and database engineering. Currently pursuing a Bachelor's degree in Computer Science at Universiti Teknologi MARA, Malaysia, I am deeply committed to learning and applying cutting-edge technologies to solve real-world problems. 💻 Proficient in a variety of programming languages including Java, Python and C++. I have hands-on experience developing web applications, mobile apps and database-driven systems. My projects range from building recommendation systems to creating sales applications, demonstrating my ability to tackle diverse challenges and deliver effective solutions. I'm always open to new opportunities and collaborations, so feel free to reach out!
+🚀 I'm a passionate computer science student with a strong background in software development, data analysis and database engineering. Currently pursuing a Bachelor's degree in Computer Science at Universiti Teknologi MARA, Malaysia, I am deeply committed to learning and applying cutting-edge technologies to solve real-world problems.
+
+💻 Proficient in a variety of programming languages including Java, Python and C++. I have hands-on experience developing web applications, mobile apps and database-driven systems. My projects range from building recommendation systems to creating sales applications, demonstrating my ability to tackle diverse challenges and deliver effective solutions. I'm always open to new opportunities and collaborations, so feel free to reach out!
 
 * 🌍  I'm based in Perlis, Malaysia.
 * ✉️  You can contact me at [danishsuffian14@gmail.com](mailto:danishsuffian14@gmail.com)
