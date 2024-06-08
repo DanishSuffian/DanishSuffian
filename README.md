@@ -8,7 +8,7 @@ CS Student
 
 * 🌍  I'm based in Perlis, Malaysia.
 * ✉️  You can contact me at [danishsuffian14@gmail.com](mailto:danishsuffian14@gmail.com)
-* 🚀  I'm currently working on [IntelIntern](http://(s)://github.com/DanishSuffian/FinalYearProject)
+* 🚀  I'm currently working on [IntelIntern](http://github.com/DanishSuffian/FinalYearProject)
 * 🧠  I'm learning PowerBI at the moment.
 * 🤝  I'm open to collaborating on any projects.
 
@@ -28,8 +28,8 @@ CS Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/DanishSuffian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishSuffian&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/DanishSuffian"><img src="https://github-readme-stats.vercel.app/api?username=DanishSuffian&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&show_icons=true" alt="DanishSuffian's GitHub stats" /></a>
 
-<a href="http://www.github.com/DanishSuffian"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=DanishSuffian&bg_color=27272a&color=ffffff&line=ef4444&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/DanishSuffian"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanishSuffian&stroke=ffffff&background=27272a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/DanishSuffian" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanishSuffian&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
